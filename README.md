@@ -1,2 +1,2 @@
-# Effort_Competition_Medicine
-Code and data for a paper: , which published in xxx...
+# Effort competition between research and review activities in medicine: a global panel data analysis
+Code and data.
